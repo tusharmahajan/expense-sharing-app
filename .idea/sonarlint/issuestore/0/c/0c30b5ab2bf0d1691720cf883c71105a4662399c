@@ -1,0 +1,12 @@
+
+l	java:S116
+"WRename this field "paid_by_user" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù…‚í
+s	java:S116"^Rename this field "amount_paid_by_user" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹º²
+q	java:S116"WRename this field "users_to_pay" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÚŒœøÿÿÿÿ
+U	java:S106""9Replace this use of System.out or System.err by a logger.(§ÉŒï8ö®ˆ«¦1
+M
+java:S1068"7Remove this unused "amount_paid_by_user" private field.(¹º²
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Õ¯»
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Õ¯»
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Õ¯»
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯õÄÛ
